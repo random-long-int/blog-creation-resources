@@ -33,6 +33,6 @@ En suivant ces étapes, vous pouvez créer un blog en Nextjs en utilisant Redis,
 
 - [utiliser git](./git.md)
 - [mongodb et redis](./Redis-Mongodb.md)
-- [supabase]()
-- [tailwindcss]()
-- [les effets]()
+- supabase (soon)
+- tailwindcss (soon)
+- les effets (soon)
