@@ -1,0 +1,23 @@
+# Git Usage
+
+Pour utiliser Git pour le développement d'un blog en Nextjs, vous pouvez suivre les étapes suivantes :
+
+- Tout d'abord, installez Git sur votre ordinateur en suivant les instructions de l'installation pour votre système d'exploitation.
+- Ouvrez un terminal et naviguez jusqu'à l'emplacement où vous souhaitez créer votre blog Nextjs.
+- Initialisez un nouveau dépôt Git en utilisant la commande git init.
+- Créez un nouveau projet Nextjs en utilisant la commande npx create-next-app suivie du nom de votre blog.
+- Ouvrez votre projet dans un éditeur de code, puis ajoutez et commit tous les fichiers de votre projet en utilisant les commandes Git add et commit.
+- Créez un nouveau dépôt sur un service d'hébergement Git, tel que GitHub, GitLab ou Bitbucket, pour stocker votre code source.
+- Ajoutez votre dépôt distant en utilisant la commande git remote add suivie du nom de votre dépôt distant et de son URL.
+- Poussez vos commits vers votre dépôt distant en utilisant la commande git push.
+- Utilisez Git pour suivre et gérer les modifications apportées à votre code source pendant le développement de votre blog Nextjs. Utilisez des branches pour travailler sur des fonctionnalités ou des corrections de bugs, puis fusionnez-les dans votre branche principale en utilisant les commandes Git branch et merge.
+
+En utilisant Git de cette manière, vous pouvez facilement suivre les modifications apportées à votre code source, collaborer avec d'autres développeurs et gérer les versions de votre blog Nextjs.
+Il est recommandé de créer plusieurs branches pour un développement efficace de l'application. Les branches peuvent être utilisées pour différentes étapes du développement, telles que :
+
+- La branche principale (par exemple, master) : c'est la branche principale de votre code source, qui contient la version en production de votre application.
+- La branche de développement (par exemple, develop) : c'est la branche où vous travaillez sur les fonctionnalités et les corrections de bugs en cours de développement.
+- Les branches de fonctionnalités (par exemple, feature/login-system) : c'est la branche où vous travaillez sur une nouvelle fonctionnalité spécifique. Une fois terminée, la branche de fonctionnalité peut être fusionnée dans la branche de développement.
+- Les branches de correctifs (par exemple, fix/authentication-bug) : c'est la branche où vous travaillez sur une correction de bug spécifique. Une fois terminée, la branche de correctif peut être fusionnée dans la branche de développement.
+
+En utilisant cette approche de gestion des branches, vous pouvez travailler sur des fonctionnalités et des corrections de bugs de manière isolée, avant de les fusionner dans la branche principale une fois qu'ils sont prêts pour la production. Cela peut également vous permettre de maintenir une version stable de votre application dans la branche principale, tout en continuant à développer de nouvelles fonctionnalités dans d'autres branches.
