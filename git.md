@@ -1,6 +1,6 @@
-# Git Usage
-
 [retour](./README.md)
+
+# Git Usage
 
 Pour utiliser Git pour le développement d'un blog en Nextjs, vous pouvez suivre les étapes suivantes :
 
