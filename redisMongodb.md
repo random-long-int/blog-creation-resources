@@ -13,3 +13,5 @@ Ensuite, il faut initialiser Redis en utilisant l'API de Redis et configurer un 
 Pour accéder aux données du blog, il faut d'abord vérifier si les données sont disponibles dans le cache Redis. Si les données sont disponibles dans le cache, il faut les utiliser pour afficher les données du blog. Si les données ne sont pas disponibles dans le cache, il faut les récupérer depuis la base de données Mongodb et les stocker dans le cache Redis pour une utilisation ultérieure.
 
 En utilisant cette approche, l'application nextjs peut utiliser Redis comme cache pour accéder rapidement aux données du blog tout en utilisant Mongodb comme base de données NoSql pour stocker les données du blog.
+
+(UPDATE SOON)
