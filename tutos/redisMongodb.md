@@ -1,6 +1,6 @@
 # Redis and Mongodb usage
 
-[retour](./README.md)
+[retour](../README.md)
 
 Pour utiliser __Redis__ et __Mongodb__ pour avoir une base de données __NoSql__ et un __cache__ Redis pour accéder aux données d'un blog en nextjs, il faut d'abord installer et configurer Redis et Mongodb sur le serveur.
 

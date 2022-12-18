@@ -4,21 +4,21 @@
 
 ### Git
 
-- [Use git](./git.md)
+- [Use git](./tutos/git.md)
 
 ### DB Classic
 
-- [Mongodb et Redis](./redisMongodb.md)
+- [Mongodb et Redis](./tutos/redisMongodb.md)
 
 ### Supabase
 
-- [OAuth](./supabaseOAuth.md)
-- [Hosting](supabaseHosted.md)
+- [OAuth](./tutos/supabaseOAuth.md)
+- [Hosting](./tutos/supabaseHosted.md)
 
 ### Nextjs
 
-- [useContext()](./useContext.md)
-- [Conventions nommage](nommageVariables.md)
-- [Conventions architecture](architecture.md)
+- [useContext()](./tutos/useContext.md)
+- [Conventions nommage](./tutos/nommageVariables.md)
+- [Conventions architecture](./tutos/architecture.md)
 - tailwindcss (soon)
 - les effets (soon)

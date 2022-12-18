@@ -1,4 +1,4 @@
-[retour](./README.md)
+[retour](../README.md)
 
 # Les conventions de nommage
 
