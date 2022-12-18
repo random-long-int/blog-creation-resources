@@ -7,5 +7,6 @@
 - [supabase](./supabaseOAuth.md)
 - [supabase hosting](supabaseHosted.md)
 - [useContext](./useContext.md)
+- [convention nommage](nommage.md)
 - tailwindcss (soon)
 - les effets (soon)
