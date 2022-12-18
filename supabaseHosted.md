@@ -1,3 +1,5 @@
+[retour](./README.md)
+
 # Self Hosted Supabase
 
 ## Docker
